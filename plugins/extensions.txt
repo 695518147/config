@@ -70,6 +70,7 @@ ms-toolsai.vscode-jupyter-cell-tags
 ms-toolsai.vscode-jupyter-slideshow
 ms-vscode.js-debug-nightly
 ms-vscode.live-server
+ms-vscode.vscode-speech
 njpwerner.autodocstring
 obkoro1.autocommit
 oderwat.indent-rainbow
